@@ -37,7 +37,7 @@ export default function LoginPage() {
                 <Shield className="w-10 h-10 text-blue-600" />
               </motion.div>
               <h1 className="text-4xl font-black tracking-tighter uppercase mb-2 text-slate-900">
-                NEXUS<span className="text-blue-600">_</span>MASTER
+                CUBELOGS<span className="text-blue-600">_</span>MASTER
               </h1>
               <p className="text-slate-500 font-medium">Orchestration Control Unit</p>
             </header>
